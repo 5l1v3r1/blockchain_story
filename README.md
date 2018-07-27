@@ -16,7 +16,7 @@
 
 [3.矿机小记](https://github.com/lcatro/blockchain_story/3.矿机小记.md)
 
-[4.萌生起的idea](https://github.com/lcatro/blockchain_story/4.萌生起的idea .md)
+[4.萌生起的idea](https://github.com/lcatro/blockchain_story/4.萌生起的idea%20.md)
 
 [5.初入币圈](https://github.com/lcatro/blockchain_story/5.初入币圈.md)
 
@@ -28,7 +28,7 @@
 
 [9.交易所的秘密](https://github.com/lcatro/blockchain_story/9.交易所的秘密.md)
 
-[10.K 线不说谎](https://github.com/lcatro/blockchain_story/10.K 线不说谎.md)
+[10.K 线不说谎](https://github.com/lcatro/blockchain_story/10.K%20线不说谎.md)
 
 [11.行业乱象](https://github.com/lcatro/blockchain_story/11.行业乱象.md)
 
